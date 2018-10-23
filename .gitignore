@@ -1,0 +1,7 @@
+# ignore node reusable codes, i.e. other people's code,
+# aka packages or modules
+node_modules
+
+# ignore .DS_store file, which simply contains metadeta about the folder
+# when you use Finder on Mac to navigate to a file or folder.
+.DS_store
